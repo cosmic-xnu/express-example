@@ -1,0 +1,30 @@
+{
+  "name": "express_example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "git"
+  ],
+  "homepage": "https://github.com/Friedrich-Muller/express-example#readme",
+  "bugs": {
+    "url": "https://github.com/Friedrich-Muller/express-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Friedrich-Muller/express-example.git"
+  },
+  "license": "GPL-3.0-only",
+  "author": "Friedrich-Muller",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

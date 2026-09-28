@@ -1,0 +1,5 @@
+3. Go into Command Prompt or Terminal and type `npm install` to build the server.
+4. Run `choco install mkcert` with administrator permissions.
+5. Run `mkcert -install`.
+6. Run `mkcert -cert-file cert.pem -key-file key.pem localhost 127.0.0.1 ::1 <your-lan-ip>`
+7. Go into Command Prompt or Terminal and type `node .` to start the server.
