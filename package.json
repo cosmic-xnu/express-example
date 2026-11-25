@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Friedrich-Muller/express-example.git"
+    "url": "git+https://github.com/cosmic-xnu/express-example.git"
   },
   "license": "GPL-3.0-only",
   "author": "cosmic-xnu",
