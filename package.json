@@ -5,16 +5,16 @@
   "keywords": [
     "git"
   ],
-  "homepage": "https://github.com/Friedrich-Muller/express-example#readme",
+  "homepage": "https://github.com/cosmic-xnu/express-example#readme",
   "bugs": {
-    "url": "https://github.com/Friedrich-Muller/express-example/issues"
+    "url": "https://github.com/cosmic-xnu/express-example/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Friedrich-Muller/express-example.git"
   },
   "license": "GPL-3.0-only",
-  "author": "Friedrich-Muller",
+  "author": "cosmic-xnu",
   "type": "commonjs",
   "main": "index.js",
   "directories": {
